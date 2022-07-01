@@ -1,0 +1,131 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 3px;
+   padding: 0px;
+}
+
+body {
+ background-color: #f0ffff; 
+  font-family: "Georgia ",sans-serif;
+}
+
+
+/* video*/
+.video {
+    display: flex;
+    width: 100%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  margin-left: 31%;
+ 
+    
+}
+/* STYLE TEXT */
+
+h1 {
+  color: #050517;
+  text-align: center;
+  margin-top: 3%
+}
+
+h2 {
+  color: #050517;
+  text-align: center;
+}
+
+h3 {
+  color: #050517;
+  text-align: center;
+}
+
+.vidtxt
+{
+  margin-bottom:5%;
+  background-color: #adadff;
+  padding: 30px;
+}
+
+#padtext
+{
+  margin-bottom:2%;
+  margin-top:2%;
+  background-color: #adadff;
+   padding: 30px;
+}
+
+/* STYLE IMAGES */
+img{
+  max-width: 25%;
+  border: 1px solid black;
+  margin-bottom: 2em;
+  
+}
+
+.group
+{
+  display: block;
+  margin-left: 20%;
+  margin-right: auto;
+
+}
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #84E6F8;
+  overflow: hidden;
+  padding: 1em;
+}
+
+li {
+  display: inline;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+  font-size: 1.3em;
+  padding: 1em;
+}
+
+li a:hover{
+  background-color: #18D1F2
+}
+/* STYLE BUTTONS */
+.buttonrules
+{
+  margin-left: 45%;
+
+  margin-bottom:20px;
+  font-size:30px;
+  
+}
+
+
+/* ADD MORE! */
+
+.input
+{
+  margin-left: 23%;
+  margin-bottom: 3%;
+}
+.container
+{
+  margin-left: 0px;
+  margin-bottom: 3%;
+
+  margin-top:3%;
+  background-color: #adadff;
+}
+
+.header
+{
+  margin-bottom:2%;
+  margin-top:2%;
+  background-color: #adadff;
+   padding: 30px;
+}
+
+#quote
+{
+  margin-left: -40%;
+}
